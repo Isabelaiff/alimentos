@@ -22,4 +22,4 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
     - name: Compilar o Java
-      run: javac -cp src src/Main.javajava
+      run: javac -cp src src/Main.java
