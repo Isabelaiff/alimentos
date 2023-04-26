@@ -26,5 +26,5 @@ jobs:
       
     - name: Executnado o Projeto
       run: 
-        cd Java
+        cd src
         Java Main
